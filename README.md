@@ -110,20 +110,20 @@ plt.show()
 ### SOBEL EDGE DETECTOR
 
 
-**SOBEL X AXIS :**
+### SOBEL X AXIS :
 ![1](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/caff429f-d2c7-435c-a9bc-2aa684506114)
 
 
 
 
 
-**SOBEL Y AXIS :**
+### SOBEL Y AXIS :
 
 ![2](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/cbfcfc0b-b68e-470b-8ec1-ff0e39eabfa8)
 
 
 
-**SOBEL XY AXIS :**
+### SOBEL XY AXIS :
 
 ![3](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/c1919680-18ed-47f7-9ea8-6e1c614d59f5)
 
